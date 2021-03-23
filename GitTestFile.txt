@@ -1,0 +1,1 @@
+Git, první pokus o commit a push
